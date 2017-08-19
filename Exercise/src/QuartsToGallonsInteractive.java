@@ -1,6 +1,6 @@
 import javax.swing.JOptionPane;
 
-public class QuartsToGallons {
+public class QuartsToGallonsInteractive {
     public static void main(String []arg){
         final int QUARTS_IN_GALLON = 4;
         int numGallon, numQuarts;
